@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/omjain4/omjain4/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/omjain4/omjain4/output/snake.yml" alt="Snake animation" />
 
 ###
