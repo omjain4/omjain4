@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/omjain4/omjain4/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/omjain4/omjain4/output/github-contribution-grid-snake2.svg)
 
 ###
