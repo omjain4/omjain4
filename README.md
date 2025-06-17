@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, MERN Stack, Compiler Design, and AI-based Web Projects**
 
-- 📫 Reach me at **omjjain236@gmail.com**
+- 📫 Reach me at **omjain236@gmail.com**
 
 - 📄 View my resume [Here](https://omjain4.netlify.app)
 
