@@ -10,8 +10,8 @@
 - 🎯 Passionate about solving real-world problems through tech and building impactful products
 - 🏆 Finalist at multiple national hackathons including SIH'24 and Innovate You Technothon
 - 💬 Ask me about **JavaScript, MERN, Flutter, Backend Systems**
-- 📫 Reach me at: **omjain4.tech@gmail.com**
-- 🌐 Portfolio: [omjain.dev](https://omjain.dev) *(Add when ready)*
+- 📫 Reach me at: **omjain236@gmail.com**
+- 🌐 Portfolio: [omjain4.netlify.app](https://omjain4.netlify.dev) 
 
 ---
 
