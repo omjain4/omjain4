@@ -1,94 +1,54 @@
 <h1 align="center">Hi 👋, I'm Om Jain</h1>
-<h3 align="center">Full Stack Developer | MERN & Flutter Enthusiast | Passionate Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Passionate about building impactful software solutions 🚀</h3>
 
-<p align="center">
-  <a href="https://github.com/omjain4"><img src="https://img.shields.io/github/followers/omjain4?label=GitHub&style=for-the-badge" /></a>
-  <a href="https://x.com/OmJain33418468"><img src="https://img.shields.io/twitter/follow/OmJain33418468?logo=twitter&style=for-the-badge" /></a>
-</p>
+##### ⏳ Coding Time for the Last 30 Days
+![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3DYOUR_CODETIME_ID_HERE)
 
-- 🔭 Currently working on **MERN & Flutter-based full-stack applications**
-- 🎯 Passionate about solving real-world problems through tech and building impactful products
-- 🏆 Finalist at multiple national hackathons including SIH'24 and Innovate You Technothon
-- 💬 Ask me about **JavaScript, MERN, Flutter, Backend Systems**
-- 📫 Reach me at: **omjain236@gmail.com**
-- 🌐 Portfolio: [omjain4.netlify.app](https://omjain4.netlify.dev) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omjain4&label=Profile%20views&color=0e75b6&style=flat" alt="omjain4" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omjain4" alt="omjain4" /></a> </p>
 
-### 💼 Experience
+- 🔭 I’m currently working on **Collaborative Code Editor (MERN Stack)**
 
-**Girls Armour Foundation** — *Web Developer Intern*  
-📍 Remote | *Aug 2024 – Oct 2024*  
-- Developed and optimized the foundation’s website using **JavaScript**, **Bootstrap**, and **HTML/CSS**
-- Created a responsive design to improve user interaction and accessibility
-- Focused on enhancing user experience across platforms  
+- 🌐 My portfolio: [omjain4.netlify.app](https://omjain4.netlify.app)
+
+- 💬 Ask me about **JavaScript, MERN Stack, Compiler Design, and AI-based Web Projects**
+
+- 📫 Reach me at **omjjain236@gmail.com**
+
+- 📄 View my resume [Here](https://omjain4.netlify.app)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🧠 Projects
-
-- **LabelIt** – Barcode Scanner for Product Data  
-  <sub>Jan 2025 – Mar 2025</sub>  
-  🔹 Scans product barcodes, fetches medical info, and suggests Amazon listings  
-  🔧 *Tech:* Flutter, Firebase  
-  [Source Code](#)
-
-- **VideoTube** – Full-Stack Video Tweet Sharing Platform  
-  🔹 Features: Upload videos, likes, subscriptions, JWT Auth, Cloudinary uploads  
-  🔧 *Tech:* React, Node.js, Express.js, MongoDB  
-  [Source Code](#)
-
-- **PostMitra** – Smart India Hackathon 2024 Finalist  
-  🔹 Optimizes postal deliveries using AI to manage time slots & emergency services  
-  🔧 *Tech:* Flutter, Dart, Firebase, Python, MongoDB, Node.js  
-  [Source Code](#)
-
----
-
-### 🧰 Skills
-
-**Languages:** Java, Python, TypeScript, JavaScript, Dart  
-**Frontend:** React.js, Flutter, HTML/CSS, Bootstrap  
-**Backend:** Node.js, Express.js, MongoDB, SQL  
-**DevTools:** Git, GitHub, VS Code, Cloudinary  
-**Cloud:** Firebase, Google Cloud  
-
----
-
-### 🏆 Achievements & Certifications
-
-- 👨‍💼 **Director – LOL Coding Club** (Aug 2023 – Present)  
-  Led events, webinars, hackathons, and mentored junior developers  
-- 💡 **Hackathons:**  
-  - 🥇 *Innovate You Technothon:* Built platform for specially-abled education  
-  - 📊 *Power BI Hackathon:* Flight delay analysis  
-  - 🏁 *Smart India Hackathon 2024 Finalist:* PostMitra  
-- 🧠 Solved **200+ DSA problems** on [LeetCode](https://leetcode.com/u/omjain4/)
-- ✅ **Certifications:**  
-  - Google Cloud Engineering Certificate  
-  - Infosys Springboard – AI Primer & Python Foundations  
-  - [More Here](https://your-portfolio-link.com) *(update with real link)*
-
----
-
-### 🌐 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/omjain4/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
-  <a href="https://x.com/OmJain33418468"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>
-  <a href="https://www.instagram.com/omjain_4/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
-  <a href="https://leetcode.com/u/omjain4/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
+<a href="https://x.com/OmJain33418468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="OmJain33418468" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omjain4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omjain4" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/omjain4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omjain4" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omjain4&show_icons=true&locale=en" alt="omjain4" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omjain4&show_icons=true&locale=en&layout=compact" alt="omjain4" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjain4&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjain4&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjain4&layout=compact" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omjain4" alt="omjain4" /></p>
 
----
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omjain4&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
