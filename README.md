@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Jain</h1>
 <h3 align="center">Full Stack Developer | Passionate about building impactful software solutions 🚀</h3>
 
-##### ⏳ Coding Time for the Last 30 Days
-![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3DYOUR_CODETIME_ID_HERE)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjain4&label=Profile%20views&color=0e75b6&style=flat" alt="omjain4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omjain4" alt="omjain4" /></a> </p>
