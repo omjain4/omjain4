@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Jain</h1>
-<h3 align="center">Full Stack Developer | Passionate about building impactful software solutions 🚀</h3>
-
-
-- 🔭 I’m currently working on **Collaborative Code Editor (MERN Stack)**
+<h3 align="center">Full Stack Developer | Passionate about building impactful s
 
 - 🌐 My portfolio: [omjain4.netlify.app](https://omjain4.netlify.app)
 
