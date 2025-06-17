@@ -1,55 +1,94 @@
-<h1 align="center">Hi 👋, I'm Syed Tasavour</h1>
-<h3 align="center">Full Stack Developer hailing from the beautiful region of Jammu & Kashmir. 🏔️ 🖥️ With a passion for programming and software development</h3>
+<h1 align="center">Hi 👋, I'm Om Jain</h1>
+<h3 align="center">Full Stack Developer | MERN & Flutter Enthusiast | Passionate Problem Solver</h3>
 
-##### Coding Time for the Last 30 Days (Tracking Starts on the 2nd Day of Each Month and Resets at the Start of Every New Month)
-
-![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29894%26project%3D%26in=0)
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedtasavour&label=Profile%20views&color=0e75b6&style=flat" alt="syedtasavour" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedtasavour" alt="syedtasavour" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/syedtasavour_" target="blank"><img src="https://img.shields.io/twitter/follow/syedtasavour_?logo=twitter&style=for-the-badge" alt="syedtasavour_" /></a> </p>
-
-- 🔭 Currently working on **MERN Stack Projects**
-
-- 👨‍💻 All of my projects are available at [Syed Tasavour](https://syedtasavour.me/)
-
-- 💬 Ask me about **Java**, **MERN**, and **Backend Architectures**
-
-- 📫 How to reach me **syedtasavour@hotmail.com**
-
-- 📄 Know about my experiences [Here](https://resume.syedtasavour.me/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="syedtasavour" height="30" width="40" /></a>
-<a href="https://dev.to/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="syedtasavour" height="30" width="40" /></a>
-<a href="https://twitter.com/syedtasavour_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedtasavour_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtasavour" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27011590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27011590" height="30" width="40" /></a>
-<a href="https://instagram.com/syed.tasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed.tasavour" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syedtasavour" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedtasavour" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@syedtasavour" height="30" width="40" /></a>
-<a href="https://discord.gg/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="syedtasavour" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/omjain4"><img src="https://img.shields.io/github/followers/omjain4?label=GitHub&style=for-the-badge" /></a>
+  <a href="https://x.com/OmJain33418468"><img src="https://img.shields.io/twitter/follow/OmJain33418468?logo=twitter&style=for-the-badge" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🔭 Currently working on **MERN & Flutter-based full-stack applications**
+- 🎯 Passionate about solving real-world problems through tech and building impactful products
+- 🏆 Finalist at multiple national hackathons including SIH'24 and Innovate You Technothon
+- 💬 Ask me about **JavaScript, MERN, Flutter, Backend Systems**
+- 📫 Reach me at: **omjain4.tech@gmail.com**
+- 🌐 Portfolio: [omjain.dev](https://omjain.dev) *(Add when ready)*
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedtasavour&show_icons=true&locale=en" alt="syedtasavour" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedtasavour&show_icons=true&locale=en&layout=compact" alt="syedtasavour" /></p>
+### 💼 Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedtasavour&" alt="syedtasavour" /></p>
+**Girls Armour Foundation** — *Web Developer Intern*  
+📍 Remote | *Aug 2024 – Oct 2024*  
+- Developed and optimized the foundation’s website using **JavaScript**, **Bootstrap**, and **HTML/CSS**
+- Created a responsive design to improve user interaction and accessibility
+- Focused on enhancing user experience across platforms  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syedtasavour&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+---
+
+### 🧠 Projects
+
+- **LabelIt** – Barcode Scanner for Product Data  
+  <sub>Jan 2025 – Mar 2025</sub>  
+  🔹 Scans product barcodes, fetches medical info, and suggests Amazon listings  
+  🔧 *Tech:* Flutter, Firebase  
+  [Source Code](#)
+
+- **VideoTube** – Full-Stack Video Tweet Sharing Platform  
+  🔹 Features: Upload videos, likes, subscriptions, JWT Auth, Cloudinary uploads  
+  🔧 *Tech:* React, Node.js, Express.js, MongoDB  
+  [Source Code](#)
+
+- **PostMitra** – Smart India Hackathon 2024 Finalist  
+  🔹 Optimizes postal deliveries using AI to manage time slots & emergency services  
+  🔧 *Tech:* Flutter, Dart, Firebase, Python, MongoDB, Node.js  
+  [Source Code](#)
+
+---
+
+### 🧰 Skills
+
+**Languages:** Java, Python, TypeScript, JavaScript, Dart  
+**Frontend:** React.js, Flutter, HTML/CSS, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB, SQL  
+**DevTools:** Git, GitHub, VS Code, Cloudinary  
+**Cloud:** Firebase, Google Cloud  
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 👨‍💼 **Director – LOL Coding Club** (Aug 2023 – Present)  
+  Led events, webinars, hackathons, and mentored junior developers  
+- 💡 **Hackathons:**  
+  - 🥇 *Innovate You Technothon:* Built platform for specially-abled education  
+  - 📊 *Power BI Hackathon:* Flight delay analysis  
+  - 🏁 *Smart India Hackathon 2024 Finalist:* PostMitra  
+- 🧠 Solved **200+ DSA problems** on [LeetCode](https://leetcode.com/u/omjain4/)
+- ✅ **Certifications:**  
+  - Google Cloud Engineering Certificate  
+  - Infosys Springboard – AI Primer & Python Foundations  
+  - [More Here](https://your-portfolio-link.com) *(update with real link)*
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/omjain4/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
+  <a href="https://x.com/OmJain33418468"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" /></a>
+  <a href="https://www.instagram.com/omjain_4/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
+  <a href="https://leetcode.com/u/omjain4/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omjain4&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjain4&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omjain4&layout=compact" />
+</p>
+
+---
 
