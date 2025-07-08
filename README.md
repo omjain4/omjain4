@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Om Jain</h1>
 <h3 align="center">Full Stack Developer | Passionate about building impactful s
 
-- 🌐 My portfolio: [omjain4.netlify.app](https://omjain4.netlify.app)
+- 🌐 My portfolio: [https://om-jain.vercel.app/](https://om-jain.vercel.app/)
 
 - 💬 Ask me about **JavaScript, MERN Stack, Compiler Design, and AI-based Web Projects**
 
 - 📫 Reach me at **omjain236@gmail.com**
 
-- 📄 View my resume [Here](https://omjain4.netlify.app)
+- 📄 View my resume [Here](https://om-jain.vercel.app/)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
