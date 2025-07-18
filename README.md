@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Om Jain</h1>
 <h3 align="center">Full Stack Developer | Passionate about building impactful s
 
-- 🌐 My portfolio: [https://om-jain.vercel.app/](https://om-jain.vercel.app/)
+- 🌐 My portfolio: [https://om-jain.vercel.app/](https://om.jain.me)
 
 - 💬 Ask me about **JavaScript, MERN Stack, Compiler Design, and AI-based Web Projects**
 
